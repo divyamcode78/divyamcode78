@@ -16,6 +16,6 @@ I'm Currently Working on a very secret project<br>I'm looking for help with chat
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=divyamcode78&icon=5&color=2)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=divyamcode78&label=310&icon=5&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
